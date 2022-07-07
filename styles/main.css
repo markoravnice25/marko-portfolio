@@ -495,7 +495,7 @@ img#lloyds-left {
   margin-bottom: 0;
 }
 
-.cavern-top {
+/* .cavern-top {
   background-image: url("../assets/CavernTop.png");
   height: 100%;
   width: 100%;
@@ -523,7 +523,7 @@ img#lloyds-left {
   position: absolute;
   background-repeat: no-repeat;
   transform: translateY(-420px);
-}
+} */
 
 .optional-hr {
   display: none;
