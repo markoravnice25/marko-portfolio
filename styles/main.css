@@ -8,9 +8,15 @@ body {
   padding: 0;
   background-color: black;
   color: white;
-  /* font-family: 'Changa', sans-serif; */
-  /* font-family: "Oxanium", cursive; */
-  font-family: 'Mali', cursive;
+  /* font-family: 'Alegreya Sans', sans-serif; */
+  /* font-family: 'Play', sans-serif; */
+  /* font-family: 'Questrial', sans-serif; */
+  /* font-family: 'Roboto', sans-serif; */
+  /* font-family: 'Roboto Condensed', sans-serif; */
+  /* font-family: 'Roboto Flex', sans-serif; */
+  /* font-family: 'Roboto Serif', serif; */
+  /* font-family: 'Roboto Slab', serif; */
+  font-family: 'Sen', sans-serif;
 }
 
 header {
@@ -283,8 +289,8 @@ img.roots {
 .main2 {
   margin-top: 22px;
   text-align: center;
-  background-color: rgb(223, 221, 221);
-  color: #000727;
+  background-color: white;
+  color: black;
   transform: translateY(-55px);
   z-index: 0;
 }
@@ -510,7 +516,7 @@ img#lloyds-left {
   padding-top: 80px;
   padding-bottom: 10px;
   margin: 39px auto 0;
-  background-color: rgb(223, 221, 221);
+  background-color: white;
   color: rgb(150, 192, 255);
   transform: translateY(-50px);
 }
