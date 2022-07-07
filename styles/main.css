@@ -311,14 +311,14 @@ img.roots {
 }
 
 .projects > * {
-  color: #000727;
+  color: black;
 }
 
 .projects > hr {
   margin: 10px auto 0px;
   height: 1px;
   border: none;
-  background-color: #000727;
+  background-color: black;
 }
 
 .project {
