@@ -230,6 +230,14 @@ h3 {
   color: rgb(150, 192, 255);
 }
 
+.h3-white {
+  color: white;
+}
+
+.h3-black {
+  color: black;
+}
+
 p {
   font-size: 19px;
 }
@@ -244,8 +252,15 @@ hr {
   height: 1px;
   width: 450px;
   max-width: 100%;
-  background-color: rgb(150, 192, 255);
   border: none;
+}
+
+.hr-white {
+  background-color: white;
+}
+
+.hr-black {
+  background-color: black;
 }
 
 .about > p {
@@ -433,7 +448,6 @@ img.rocks {
   margin: 10px auto 0px;
   height: 1px;
   border: none;
-  background-color: rgb(150, 192, 255);
 }
 
 div.experience {
@@ -525,7 +539,6 @@ img#lloyds-left {
   margin: 10px auto 0px;
   height: 1px;
   border: none;
-  background-color: rgb(150, 192, 255);
 }
 
 .interest-text {
