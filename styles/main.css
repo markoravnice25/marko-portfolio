@@ -218,6 +218,7 @@ li > a:hover {
   padding-bottom: 30px;
   background-color: black;
   z-index: -1;
+  padding-bottom: 80px;
 }
 
 section {
@@ -308,6 +309,7 @@ img.roots {
   color: black;
   transform: translateY(-55px);
   z-index: 0;
+  padding-bottom: 80px;
 }
 
 .projects > * {
@@ -546,6 +548,7 @@ img#lloyds-left {
 
 .main5 {
   background-color: black;
+  padding-bottom: 80px;
 }
 
 img.me {
