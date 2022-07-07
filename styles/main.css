@@ -401,15 +401,15 @@ br {
   margin: 0 8px;
   padding: 10px 0px;
   border-radius: 10px;
-  background-color: rgb(150, 192, 255);
-  color: #000727;
-  border: #000727 solid 2px;
+  background-color: white;
+  color: black;
+  border: black solid 2px;
   font-size: 19px;
 }
 
 .button:hover {
-  background-color: #000727;
-  color: rgb(150, 192, 255);
+  background-color: black;
+  color: white;
   cursor: pointer;
 }
 
@@ -531,7 +531,6 @@ img#lloyds-left {
   padding-bottom: 10px;
   margin: 39px auto 0;
   background-color: white;
-  color: rgb(150, 192, 255);
   transform: translateY(-50px);
 }
 
