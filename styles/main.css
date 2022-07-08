@@ -31,8 +31,8 @@ header {
 }
 
 .title {
-  top: 21%;
-  left: 50%;
+  top: 27%;
+  left: 73%;
   width: fit-content;
   transform: translate(-50%, -50%);
   position: fixed;
@@ -104,7 +104,7 @@ h2 {
 }
 
 .mountains {
-  background-image: url("../assets/wireframe-11.png");
+  background-image: url("../assets/earth-planet-sphere-green-leaves-background-ecology-environment-care-concept-greenpeace-earth-day-theme-elements-this-image-furnished-by-nasa.jpg");
   height: 100vh;
   width: 100%;
   background-attachment: fixed;
