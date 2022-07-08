@@ -32,7 +32,7 @@ header {
 
 .title {
   top: 21%;
-  left: 53%;
+  left: 50%;
   width: fit-content;
   transform: translate(-50%, -50%);
   position: fixed;
@@ -104,7 +104,7 @@ h2 {
 }
 
 .mountains {
-  background-image: url("../assets/wireframe-10.png");
+  background-image: url("../assets/wireframe-11.png");
   height: 100vh;
   width: 100%;
   background-attachment: fixed;
