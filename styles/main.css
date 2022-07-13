@@ -244,6 +244,11 @@ p {
   font-size: 19px;
 }
 
+.about-hi {
+  color: greenyellow;
+  font-size: 30px;
+}
+
 .about {
   max-width: 630px;
   margin: -50px auto 0;
