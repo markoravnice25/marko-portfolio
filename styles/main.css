@@ -458,6 +458,26 @@ br {
   cursor: pointer;
 }
 
+.media-black-experience {
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  width: 110px;
+  margin: 0 8px;
+  padding: 10px 10px;
+  border-radius: 10px;
+  background-color: black;
+  color: white;
+  border: white solid 2px;
+  font-size: 19px;
+}
+
+.media-black-experience:hover {
+  background-color: white;
+  color: black;
+  cursor: pointer;
+}
+
 .media-white {
   display: inline-block;
   text-align: center;
