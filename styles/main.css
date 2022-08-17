@@ -407,7 +407,7 @@ br {
   vertical-align: middle;
   width: 210px;
   margin: 0 8px;
-  padding: 10px 0px;
+  padding: 10px 10px;
   border-radius: 10px;
   background-color: white;
   color: black;
@@ -432,6 +432,26 @@ br {
 
 .button:nth-child(5) > i {
   transform: translateY(-10px);
+}
+
+.button-black {
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  width: 210px;
+  margin: 0 8px;
+  padding: 10px 10px;
+  border-radius: 10px;
+  background-color: black;
+  color: white;
+  border: white solid 2px;
+  font-size: 19px;
+}
+
+.button-black:hover {
+  background-color: white;
+  color: black;
+  cursor: pointer;
 }
 
 .projects {
@@ -553,15 +573,16 @@ img#lloyds-left {
 }
 
 .interest-link {
-  color: tomato;
+  color: rgb(89, 107, 245);
   text-decoration: none;
-  background-color: white;
   font-family: fantasy;
   font-size: 30px;
+  border: 0.5px solid;
+
 }
 
 .interest-link:hover {
-  color: greenyellow;
+  color: rgb(72, 232, 9);
 }
 
 .main5 {
