@@ -552,6 +552,18 @@ img#lloyds-left {
   color: black;
 }
 
+.interest-link {
+  color: tomato;
+  text-decoration: none;
+  background-color: white;
+  font-family: fantasy;
+  font-size: 30px;
+}
+
+.interest-link:hover {
+  color: greenyellow;
+}
+
 .main5 {
   background-color: black;
   padding-bottom: 80px;
