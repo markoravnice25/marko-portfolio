@@ -222,6 +222,10 @@ li > a:hover {
   padding-bottom: 80px;
 }
 
+.media-links-about {
+  margin-bottom: 17px;
+}
+
 section {
   z-index: 1;
 }
@@ -407,7 +411,7 @@ br {
   vertical-align: middle;
   width: 210px;
   margin: 0 8px;
-  padding: 10px 10px;
+  padding: 10px 0px;
   border-radius: 10px;
   background-color: white;
   color: black;
@@ -434,7 +438,7 @@ br {
   transform: translateY(-10px);
 }
 
-.button-black {
+.media-black {
   display: inline-block;
   text-align: center;
   vertical-align: middle;
@@ -448,9 +452,29 @@ br {
   font-size: 19px;
 }
 
-.button-black:hover {
+.media-black:hover {
   background-color: white;
   color: black;
+  cursor: pointer;
+}
+
+.media-white {
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  width: 110px;
+  margin: 0 8px;
+  padding: 10px 0px;
+  border-radius: 10px;
+  background-color: white;
+  color: black;
+  border: black solid 2px;
+  font-size: 19px;
+}
+
+.media-white:hover {
+  background-color: black;
+  color: white;
   cursor: pointer;
 }
 
