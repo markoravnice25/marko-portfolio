@@ -548,9 +548,9 @@ div.experience-description#lloyds-right {
   margin-left: 30px;
 }
 
-.experience:nth-child(even) > .experience-description {
+/* .experience:nth-child(even) > .experience-description {
   text-align: right;
-}
+} */
 
 img#lloyds-right {
   margin-left: 25px;
