@@ -737,7 +737,7 @@ img.me {
   }
   .main4 > .project-img {
     display: flex;
-    flex-direction: flex;
+    flex-direction: column;
   }
   .main3 > .experience > div.experience-description {
     width: 100%;
