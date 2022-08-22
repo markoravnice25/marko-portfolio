@@ -735,6 +735,10 @@ img.me {
     display: flex;
     flex-direction: column;
   }
+  .main4 > .project-img {
+    display: flex;
+    flex-direction: flex;
+  }
   .main3 > .experience > div.experience-description {
     width: 100%;
     text-align: center;
